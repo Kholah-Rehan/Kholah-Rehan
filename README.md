@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kholah-Rehan</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-6540746">
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-6540746-5540750.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kholah-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="kholah-rehan" /> </p>
 
