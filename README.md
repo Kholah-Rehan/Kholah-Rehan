@@ -1,9 +1,7 @@
-![Alt Text](<https://drive.google.com/file/d/1Q__EekhSW87fn225rjo69XXR_T0PBcrN/view?usp=drivesdk>)
-
-
+[![MasterHead](https://drive.google.com/file/d/1Q__EekhSW87fn225rjo69XXR_T0PBcrN/view?usp=drivesdk)]
 <h1 align="center">Hi 👋, I'm Kholah-Rehan</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-6540746-5540750.mp4">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kholah-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="kholah-rehan" /> </p>
 
