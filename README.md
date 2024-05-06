@@ -1,4 +1,9 @@
-[![MasterHead](https://drive.google.com/file/d/1Q__EekhSW87fn225rjo69XXR_T0PBcrN/view?usp=drivesdk)]
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="cse.jpg" alt="MasterHead">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kholah-Rehan</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
